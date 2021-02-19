@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# MrEvanIsHere
+## Currently working on
+
+## What I'm Reading
+* Byrant, O'Hallaron - Computer Systems: A Programmer's Perspective
+* Williams - C++ Concurrency In Action 2nd Edition
+* Wackerly, Mendenhall, Scheaffer - Mathematical Statistics 7th Edition
+## Future Projects
+
+## Major Projects
+
+### Voxel Engine
+![OpenGL](assets/opengl-demo.gif)
+
+### Django Site (My Website)
+![Django](assets/website-main-page.png)
+
+### Anki Add-on
+![Anki](assets/anki-addon-gui.png)
+
+### Fraction Calculator
+see mrevanishere/math-discord-bot
+
+## Resume
+See my anonymized resume in mrevanishere/resume
