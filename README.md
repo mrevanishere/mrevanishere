@@ -18,7 +18,7 @@
 ### Social Media
 
 [<img width="64px" src="assets/mrevan-seiku.png/">](https://mrevanishere.com/)
-[<img width="64px" src="assets/linkedin-logo-copy.png">](https://www.linkedin.com/in/evan-bui-7b18411b0/)
+[<img width="64px" src="assets/linkedin-logo-copy.png">](https://www.linkedin.com/in/mrevanishere/)
 [<img width="64px" src="assets/github.png">](https://github.com/mrevanishere)
 
 # Currently working on
